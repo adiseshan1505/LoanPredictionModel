@@ -10,4 +10,5 @@
   <li>Then using scikit-learn libraries I have created a simple ML model (trains for 80% and tests for 20%) that returns accuracy value for the default column and the overall accuracy value as well</li>
   <li>A visualized report has also been created with the help of Power-BI.</li>
   <li>The report includes DAX expressions expressed in form of flash cards. A pie chart explaining count of default, a slicer for credit score(you can change the range values and manipulate all reading s in the report).</li>
+  <li>I have attached the google drive link. You'll may download the enitre .pbix file, download Microsoft Power-BI Desktop from Microsoft Store and open the same .pbix file with power bi and view the report.</li>
 </ul>
